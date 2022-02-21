@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfixtures.a  CMakeFiles/fixtures.dir/src/Account.cpp.o
+/usr/bin/ranlib libfixtures.a

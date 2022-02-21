@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/delaplai/git/C-Unit-Testing-Google-Test-and-Google-Mock/mock/include/Account.h
+
+C:/Users/delaplai/git/C-Unit-Testing-Google-Test-and-Google-Mock/mock/src/Account.cpp
+../include/Account.h
+C:/Users/delaplai/git/C-Unit-Testing-Google-Test-and-Google-Mock/mock/include/Account.h
+stdexcept
+-
+

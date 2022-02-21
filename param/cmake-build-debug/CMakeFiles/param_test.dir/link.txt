@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/param_test.dir/test/main.cpp.o CMakeFiles/param_test.dir/test/param.cpp.o  -o param_test  lib/libgtestd.a lib/libgtest_maind.a -lstdc++ libparam.a lib/libgtestd.a -lpthread 

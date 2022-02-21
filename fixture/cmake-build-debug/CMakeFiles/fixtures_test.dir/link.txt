@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/fixtures_test.dir/test/fixture.cpp.o CMakeFiles/fixtures_test.dir/test/main.cpp.o  -o fixtures_test  lib/libgtestd.a lib/libgtest_maind.a -lstdc++ libfixtures.a lib/libgtestd.a -lpthread 
